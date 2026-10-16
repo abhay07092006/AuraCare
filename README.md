@@ -1,6 +1,11 @@
 # 🩺 AuraCare — AI-Powered Smart Triage & Remote Patient Monitoring
 
-> **Production-Ready Healthcare Web Application** built for overburdened emergency departments, urgent clinics, and outpatient teleconsultation networks.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-0f766e?style=for-the-badge&logo=github)](https://abhay07092006.github.io/AuraCare/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/abhay07092006/AuraCare)
+[![Next.js 14](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+
+> **Live Public URL:** **[https://abhay07092006.github.io/AuraCare/](https://abhay07092006.github.io/AuraCare/)**  
+> **Source Repository:** **[https://github.com/abhay07092006/AuraCare](https://github.com/abhay07092006/AuraCare)**
 
 ---
 
