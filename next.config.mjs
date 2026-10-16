@@ -7,6 +7,7 @@ const nextConfig = {
     basePath: '/AuraCare',
     assetPrefix: '/AuraCare',
     images: { unoptimized: true },
+    trailingSlash: true,
   } : {}),
 };
 
